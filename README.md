@@ -8,5 +8,8 @@ During HackUConn 2023, a team from UConn Data Science Club consisting of Pranav 
 
 ## Current Plans
 - Expand our data sets and models
+  - Develop a methodology to scrape the latest images from online communities periodically and fine tune the model. 
 - Improve UX and functionality
-- Collaborate with the UConn Artists to modify logic
+  - Create a front-end userface using React.js, in the future possibly adding support for user accounts.
+- Collaborate with the UConn Artists
+  - Take feedback from users and UConn Fine Arts department to make modifications.
