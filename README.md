@@ -13,3 +13,14 @@ During HackUConn 2023, a team from UConn Data Science Club consisting of Pranav 
   - Create a front-end userface using React.js, in the future possibly adding support for user accounts.
 - Collaborate with the UConn Artists
   - Take feedback from users and UConn Fine Arts department to make modifications.
+
+
+## File Overview
+- .gitignore specifies which files are tracked when making commits and pushing code.
+- CONTRIBUTING.md specifies guidelines for making contributions to this open source project.
+- LICENSE contains legal permissions granted to users, allowing them to access, modify, and distribute software's source code freely. We use the Open Source MIT license
+- artpilot.jpg is the logo of ArtAgent.Ai
+- artpilot.trans is a transparent version of the logo
+- interface.py is a simple front-end interface that takes in the path of an image and uses the model to make predictions.
+- processing.py contains all the data cleaning and processing as well as model training and evaluation.
+- (missing) scraping.py contains the code which was used to scrape images from various subreddits.
