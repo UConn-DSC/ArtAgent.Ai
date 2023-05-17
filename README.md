@@ -24,3 +24,4 @@ During HackUConn 2023, a team from UConn Data Science Club consisting of Pranav 
 - interface.py is a simple front-end interface that takes in the path of an image and uses the model to make predictions.
 - processing.py contains all the data cleaning and processing as well as model training and evaluation.
 - (missing) scraping.py contains the code which was used to scrape images from various subreddits.
+- reddit_model.pth this file is a pretrained CNN model that is used in the current version to make predictions. This file is accessible in the releases section under the model tag.
